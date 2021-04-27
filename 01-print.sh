@@ -12,7 +12,7 @@ echo Bye
 
 echo -e "Hai1\nBye1"
 
-# \n is used to print a new line
+# \n is used to print a newline
 
 # Some times we need colors to be printed with the text.
 
