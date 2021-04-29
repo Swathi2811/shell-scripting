@@ -7,4 +7,4 @@ echo 2 = $2
 echo "* = $*"
 echo "@ = $@"
 
-echo "# = $#
+echo "# = $#"
