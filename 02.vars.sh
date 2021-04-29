@@ -1,0 +1,5 @@
+#! /bin/bash
+
+echo -e "Hello\n bye"
+   a=100
+ echo A=$a
