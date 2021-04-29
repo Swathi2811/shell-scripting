@@ -5,5 +5,5 @@ echo -e "Hello\n bye"
  echo A=$a
  Date=$(date +%F)
  echo "todays date is $Date"
- EXPR=$((2+3-4+78_34/6))
+ EXPR=$((2+3-4+78-34/6))
 echo Final value = $EXPR
