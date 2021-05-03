@@ -5,3 +5,4 @@ read -p 'Enter your age =' age
 echo 'your name is :' $name 'your age is :' $age
 
 echo $name
+echo $age
