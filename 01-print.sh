@@ -31,3 +31,5 @@ echo -e "Hai1\nBye1"
 
 echo -e "\e[31mWelcome to DevOps Training\e[0m"
 echo "Good Evening"
+echo -e "\[34mThis is swathi\e[0m"
+echo -e "\e[36mWorks in zelar\e[0m"
