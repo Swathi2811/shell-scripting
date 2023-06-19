@@ -28,6 +28,7 @@ echo -e "Hai1\nBye1"
 #   Cyan                  36
 
 # Syntax: echo -e "\e[COLmMESSAGE"
+# [0m to disable the colour
 
 echo -e "\e[31mWelcome to DevOps Training\e[0m"
 echo "Good Evening"
